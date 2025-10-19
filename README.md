@@ -51,7 +51,8 @@ A Discord bot built with **Python** and `discord.py` that can schedule a delayed
    - `bot`
    - `applications.commands`
 3. Under **Bot Permissions**, check:
-   - `Read Messages / View Channels`
+   - `Read Messages History`
+   - ` View Channels`
    - `Send Messages`
    - `Connect`
    - `Move Members`
